@@ -155,7 +155,7 @@ class AntiSMASHInputExporter(object):
 
         record = SeqRecord(Seq(contig_sequence),
                            id=contig_name,
-                           name=contig_name[:16],
+                           name=contig_name,
                            description=f"{contig_name} exported from anvi'o for antiSMASH")
 
         record.annotations['molecule_type'] = 'DNA'
