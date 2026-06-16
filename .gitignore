@@ -42,3 +42,6 @@ anvio/data/misc/KEGG
 anvio/data/misc/KEGG/
 anvio/data/interactive/lib/ngl/
 anvio/data/misc/TRNA_TAXONOMY/
+
+# micromamba dev environment
+.micromamba/*
