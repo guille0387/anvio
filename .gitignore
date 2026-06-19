@@ -45,3 +45,4 @@ anvio/data/misc/TRNA_TAXONOMY/
 
 # micromamba dev environment
 .micromamba/*
+anvio-dev/*
